@@ -1,0 +1,2 @@
+# Mythrpc
+Mythwar II RPC
